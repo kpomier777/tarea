@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejercicio3Test.CreditTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2021-02-24T08:13:05" hostname="DESKTOP-VBMVFV9" time="0.092">
+  <properties/>
+  <testcase name="verify_calculate_credit[0]" classname="ejercicio3Test.CreditTest" time="0.078"/>
+  <testcase name="verify_calculate_credit[1]" classname="ejercicio3Test.CreditTest" time="0.003"/>
+  <testcase name="verify_calculate_credit[2]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[3]" classname="ejercicio3Test.CreditTest" time="0.001"/>
+  <testcase name="verify_calculate_credit[4]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[5]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[6]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[7]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[8]" classname="ejercicio3Test.CreditTest" time="0.001"/>
+  <testcase name="verify_calculate_credit[9]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[10]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[11]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[12]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[13]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[14]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[15]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[16]" classname="ejercicio3Test.CreditTest" time="0.001"/>
+  <testcase name="verify_calculate_credit[17]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[18]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[19]" classname="ejercicio3Test.CreditTest" time="0.001"/>
+  <testcase name="verify_calculate_credit[20]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[21]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[22]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[23]" classname="ejercicio3Test.CreditTest" time="0.001"/>
+  <testcase name="verify_calculate_credit[24]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[25]" classname="ejercicio3Test.CreditTest" time="0.0"/>
+  <testcase name="verify_calculate_credit[26]" classname="ejercicio3Test.CreditTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

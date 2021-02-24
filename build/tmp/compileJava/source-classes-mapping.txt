@@ -1,0 +1,30 @@
+calculadora/Calculadora.java
+ calculadora.Calculadora
+badPractices/Calculadora.java
+ badPractices.Calculadora
+calculadoraMock/BasicCalculadoraService.java
+ calculadoraMock.BasicCalculadoraService
+calculadotaPowerMockito/CalculadoraPowerMock.java
+ calculadotaPowerMockito.CalculadoraPowerMock
+ejercicio2/NextDay.java
+ ejercicio2.NextDay
+calculadoraMock/CalculadoraMock.java
+ calculadoraMock.CalculadoraMock
+ejercicio1/CalcularNota.java
+ ejercicio1.CalcularNota
+calculadotaPowerMockito/HelperCalculadoraService.java
+ calculadotaPowerMockito.HelperCalculadoraService
+ejercicio3/Asfi.java
+ ejercicio3.Asfi
+ejercicio3/Credito.java
+ ejercicio3.Credito
+ejercicio4/BDUtil.java
+ ejercicio4.BDUtil
+ejercicio4/Cajero.java
+ ejercicio4.Cajero
+ejercicio4/ClientDB.java
+ ejercicio4.ClientDB
+ejercicio3/Credito2.java
+ ejercicio3.Credito2
+ejercicio3/AsfiUtil.java
+ ejercicio3.AsfiUtil
