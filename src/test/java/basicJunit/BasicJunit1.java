@@ -44,6 +44,8 @@ public class BasicJunit1 {
         System.out.println("LOGICA DE MI TEST 4 - VELOCIDAD METODO");
     }
 
+
+
     @Test (expected = ArithmeticException.class)
     public void verify_some_thing5(){
         System.out.println("LOGICA DE MI TEST 5");
